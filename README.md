@@ -1,8 +1,5 @@
-To do
+Use the code as reference to build 
 
-Pass Data to each individual component
-Validate props and try to handle props if missing
-
-
-Additionally
-Create a Container Component and have all the card componenets inside container. 
+JSON strucuture
+Paste the structure on myjson (a fake API)
+consume the API and show results on UI.
